@@ -64,8 +64,7 @@ Orders
 ## 🔗 View the Dashboard
 
 If you're viewing this on GitHub:
-- You can [download the TWBX file](Dashboard/wayfair_office_furniture_sales_dashboard%20(1).twbx) to explore the dashboard in Tableau Public.
-
+-  You can [download the TWBX file](Dashboard/wayfair_office_furniture_sales_dashboard.twbx) to explore the dashboard in Tableau Public.
 ---
 
 ### 📌 Author
