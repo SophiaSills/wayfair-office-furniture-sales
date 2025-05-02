@@ -64,12 +64,11 @@ Orders
 ## 🔗 View the Dashboard
 
 If you're viewing this on GitHub:
-- You can [download the TWBX file](Dashboard/wayfair_office_furniture_sales_dashboard.twbx) to explore the dashboard in Tableau Public.
-- Or embed the final PNG in your portfolio/LinkedIn.
+- You can [download the TWBX file](Dashboard/wayfair_office_furniture_sales_dashboard(1).twbx) to explore the dashboard in Tableau Public.
 
 ---
 
-## 📌 Author
+### 📌 Author
 
 **Tianyi Sun**  
 Multilingual data analyst with a background in education and administration, transitioning into analytics with strong skills in visualization, storytelling, and communication.
