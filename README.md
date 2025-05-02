@@ -75,3 +75,38 @@ Multilingual data analyst with a background in education and administration, tra
 
 ---
 
+This project analyzes office furniture sales using transactional and product-level data to uncover insights across subcategories, time, and geography. The dashboard was built entirely in **Tableau**, with the goal of producing interactive and visually intuitive business KPIs.
+
+## 📊 Executive Summary
+
+- **Total Sales**: $517,635 — up **20.59%** from 2022  
+- **Total Profit**: $768,690 — a **43.72%** increase YoY  
+- **Total Quantity Sold**: 37,873  
+- **Top Weeks by Sales**:  
+  - **Week 45**: $7.84M  
+  - **Week 46**: $7.74M  
+  - **Week 48**: $7.06M  
+- **Top Subcategories**:  
+  - **Chairs** and **Phones** led in both sales and profitability  
+  - Some subcategories like **Tables** showed losses despite high sales
+
+## 📌 Dashboard Highlights
+
+- Year-over-year trends for **sales, profit, and quantity**
+- Subcategory-level bar charts showing **performance vs. previous year**
+- **Weekly trend line** visualizing fluctuations and seasonal peaks
+- Indicators for **highest/lowest months**, **profit vs. loss categories**
+
+![Dashboard Screenshot](outputs/dashboard_screenshot.png)
+
+## 🧰 Tools Used
+
+- **Tableau Desktop** (public edition)
+- **CSV files** (Orders, Products, Customers, Location)
+- **Git & GitHub** for version control and project documentation
+
+## 📁 Project Structure
+
+wayfair-office-furniture-sales/ ├── Dashboard/ # Tableau workbook (.twbx) ├── Data/ # Raw CSV datasets │ ├── Customers.csv │ ├── Orders.csv │ ├── Products.csv │ └── Location.csv ├── outputs/ # Dashboard image export │ └── dashboard_screenshot.png ├── README.md # Project summary and documentation
+
+
