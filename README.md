@@ -19,7 +19,7 @@ Key features:
 - Sales & profit performance by **product subcategory**
 - Icons to mark **best and worst months**
 
-![Sales Dashboard](outputs/wayfair_office_furniture_sales_dashboard_2023.png)
+![Sales Dashboard](outputs/charts/wayfair_office_furniture_sales_dashboard.png)
 
 ---
 
